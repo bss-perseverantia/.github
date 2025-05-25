@@ -10,4 +10,5 @@ Coming Soon.
 #### Managed By
 
 [\@events-at-scottish-mahim](https://github.com/events-at-scottish-mahim)
+
 [\@bumblebee](https://github.com/Bumblebee-3)
