@@ -21,7 +21,7 @@
   <br/>
 
   <div>
-    <h4>📌 Managed By:</h4>
+    <h4>📌Github Managed By:</h4>
     <p>
       <a href="https://github.com/events-at-scottish-mahim" target="_blank">@events-at-scottish-mahim</a><br/>
       <a href="https://github.com/Bumblebee-3" target="_blank">@bumblebee</a>
