@@ -8,6 +8,27 @@
 
   <h2>🎉 Coming Soon 🎉</h2>
 
+  
+
+  <br/>
+
+  <div style="max-width: 700px; margin: auto;">
+    <h3>🌟 About Perseverantia</h3>
+    <p align="left">
+      Perseverantia is the annual inter-school festival hosted by Bombay Scottish School, Mahim. The name 
+      <em>"Perseverantia"</em> is derived from the school's motto, <strong>Perseverantia et fide in Deo</strong>,
+      meaning <em>"Perseverance and Faith in God"</em>. The festival aims to provide a platform for students to 
+      showcase their talents and engage in various events that promote creativity, critical thinking, and collaboration.
+    </p>
+  <div align="center">
+    <p align="left">
+    📅 <strong>Date:</strong> 3rd October 2025<br/>
+    ⏰ <strong>Time:</strong> 7:00 AM<br/>
+    📍 <strong>Venue:</strong> Bombay Scottish School, Mahim
+    </p>
+  </div>
+  </div>
+
   <br/>
 
   <div>
@@ -21,7 +42,7 @@
   <br/>
 
   <div>
-    <h4>📌Github Managed By:</h4>
+    <h4>📌 Github Managed By:</h4>
     <p>
       <a href="https://github.com/events-at-scottish-mahim" target="_blank">@events-at-scottish-mahim</a><br/>
       <a href="https://github.com/Bumblebee-3" target="_blank">@bumblebee</a>
