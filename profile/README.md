@@ -4,7 +4,7 @@
 
   <h1>Perseverantia</h1>
   <h3>The Annual Inter-school Festival</h3>
-  <h4>Hosted by students of <a href="https://bombayscottishmahim.in/" target="_blank">Bombay Scottish School, Mahim</a></h4>
+  <h4>Hosted by the students of <a href="https://bombayscottishmahim.in/" target="_blank">Bombay Scottish School, Mahim</a></h4>
 
   <h2>🎉 Coming Soon 🎉</h2>
 
